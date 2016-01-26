@@ -1,0 +1,12 @@
+Basic Commands List
+-------------------
+
+git status		– Show current status of git repository you work in
+
+git init		- Initialize a git repository in the current folder
+
+git add	Filename 	- Add or update "Filename" for the next commit
+git add .		- Add or update all files in current folder for the next commit
+git add -A		- Add or update all files in current folder (recursive) for next commit
+
+git commit -m "Message"	- Commit added files to git repository
